@@ -13,8 +13,5 @@ HELLO
 </div>
 
 
-<section>
-Projects
+#Projects
 [MY PAGE](https://github.com)
-
-</section>
